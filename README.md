@@ -16,7 +16,7 @@
 
 ## 📫 Как со мной связаться
 - Email:
-  ```bash
+ ```bash
   marina_official@mail.ru
-  
+```
 - Telegram: [Мой профиль ТГ](https://t.me/mari_shi11)
